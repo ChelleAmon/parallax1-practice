@@ -1,7 +1,18 @@
-.Lobster {
+.lobster {
     font-family: 'Lobster', cursive;
 }
 
 .opensans{
     font-family: 'Open Sans', sans-serif;
 }
+
+.header1 {
+    background-image: url("/images/roadtrip1.jpg");
+    height: 40vh;
+    width: 100%;
+    background-repeat: repeat;
+    background-position: center;
+    box-sizing: border-box;
+
+}
+
