@@ -7,12 +7,17 @@
 }
 
 .header1 {
-    background-image: url("/images/roadtrip1.jpg");
-    height: 40vh;
-    width: 100%;
-    background-repeat: repeat;
+    background: url("/images/trip1.jpg");
+    height: 80vh;
+    background-repeat:no-repeat;
     background-position: center;
-    box-sizing: border-box;
+    background-size: cover;
+    position:relative;
+}
+
+.header1text{
+    margin: 20vh;
+
 
 }
 
