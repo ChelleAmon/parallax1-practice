@@ -12,12 +12,26 @@
     background-repeat:no-repeat;
     background-position: center;
     background-size: cover;
-    position:relative;
 }
 
 .header1text{
     margin: 20vh;
+}
+.bgnav1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/images/trip2.jpg");
+    height: 80vh;
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+    position:relative;
+}
 
-
+.nav-overlay{
+    position: relative;
+    top:0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.3);
+    display: flex;
+    flex-direction:column;
 }
 
