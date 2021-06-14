@@ -64,6 +64,10 @@
     height: 70vh;
 }
 
-
+.custom-fab{
+    color: white;
+    box-sizing: border-box;
+    margin:1em;
+}
 
 
