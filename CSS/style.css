@@ -10,7 +10,7 @@ html, body{
 }
 
 .header1 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/images/trip1.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../images/trip1.jpg");
     height: 120vh;
     background-repeat:no-repeat;
     background-position: center;
@@ -22,19 +22,19 @@ html, body{
 }
 
 .section_image_1{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/images/trip2.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../images/trip2.jpg");
 }
 
 .section_image_2{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/images/trip3.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../images/trip3.jpg");
 }
 
 .section_image_3{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/images/trip5.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../images/trip5.jpg");
 }
 
 .section_image_4{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/images/trip4.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../images/trip4.jpg");
 }
 
 
@@ -71,7 +71,7 @@ html, body{
 }
 
 .parallax2 {
-    background-image: url("/images/trip2.jpg");
+    background-image: url("../images/trip2.jpg");
     /*height: 100%;*/
     background-attachment: fixed;
     background-position: center;
@@ -80,7 +80,7 @@ html, body{
 }
 
 .parallax3 {
-    background-image: url("/images/trip3.jpg");
+    background-image: url("../images/trip3.jpg");
     /*height: 100%;*/
     background-attachment: fixed;
     background-position: center;
@@ -89,7 +89,7 @@ html, body{
 }
 
 .parallax4 {
-    background-image: url("/images/trip4.jpg");
+    background-image: url("../images/trip4.jpg");
     /*height: 100%;*/
     background-attachment: fixed;
     background-position: center;
@@ -97,7 +97,7 @@ html, body{
     background-size: cover;
 }
 .parallax5 {
-    background-image: url("/images/trip5.jpg");
+    background-image: url("../images/trip5.jpg");
     /*height: 100%;*/
     background-attachment: fixed;
     background-position: center;
